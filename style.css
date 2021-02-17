@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    align-self: center;
+}
+
+.exercice1, .exercice2, .exercice3, .exercice4, .exercice5, .exercice6, .exercice7, .exercice8, .exercice9, .exercice10 {
+    margin: 2%;
+    padding: 2%;
+    border: solid 1px orange;
+}
